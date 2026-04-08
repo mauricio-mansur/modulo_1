@@ -6,3 +6,6 @@
  Mi CV en pdf:
  (https://github.com/mauricio-mansur/modulo_1/blob/main/CV-MauricioMansur/CV_MauricioMansur.pdf)
 
+
+Archivo zip. con todo el proyecto en LAteX: (https://github.com/mauricio-mansur/modulo_1/blob/main/CV-MauricioMansur/CV_MauricioMansur.zip)
+
